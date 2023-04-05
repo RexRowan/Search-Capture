@@ -1,7 +1,7 @@
 # Search-Capture
 Python module for searching common interests in suspects lists
 
-```
+```vim
 from common_words import find_common_words
 
 list1 = ['John', 'Alex', 'Carol', 'Jason']
