@@ -1,5 +1,5 @@
 # Search-Capture
-Python package for searching common interests in suspects lists
+Python module for searching common interests in suspects lists
 
 ```
 from common_words import find_common_words
